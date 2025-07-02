@@ -35,8 +35,8 @@ It offers a visual layer on top of well-documented business requirements and pla
 - ✅ Process Diagrams & Use Case Models
 - ✅ Feature-wise Backlog & Wireframes
 
-👉 **Main Repository:** [Residential Township – BA Documentation](https://github.com/suraj-insights/Residential-Township-Management-BA-Documents)  
-*(Replace link with your actual BA repo URL if different)*
+👉 **Main Repository:** [Residential Township – BA Documentation](https://github.com/suraj-insights/Residential-Township-Management-System.git)  
+
 
 ---
 
