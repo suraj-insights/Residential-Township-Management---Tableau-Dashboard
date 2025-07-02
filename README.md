@@ -1,29 +1,61 @@
-# 🏢 Residential Township Management - Tableau Dashboard
+# 🏢 Residential Township Management – Tableau Dashboard
 
-## 📊 Project Summary
-This Tableau dashboard provides a comprehensive overview of a Residential Township Management System. It is designed for stakeholders such as administrators, managers, and residents to monitor key metrics related to maintenance, residents, complaints, vendors, and finance.
+## 📘 Project Overview
+
+This Tableau dashboard is part of a comprehensive Residential Township Management System designed to help stakeholders manage operations efficiently—covering residents, complaints, vendors, and financial tracking.
+
+It offers a visual layer on top of well-documented business requirements and planning artifacts prepared from a Business Analyst perspective.
+
+---
 
 ## 🔗 Live Dashboard
+
 👉 [View on Tableau Public](https://public.tableau.com/views/Residential_Township_Master_Data_T/HOME?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 📁 Features
-- ✅ KPI Symbols (✔️, ❌, ⚠️) for quick visual insights
-- 📊 Donut, Bar, and Line Charts
-- 🧹 Complaint Tracking by Type and Status
-- 🧾 Maintenance Collection and Payment Tracking
-- 🔐 Vendor Contract Tracking (Start, End, Contact)
-- 📅 Date Filters and Multi-page Navigation
+---
 
-## 🧾 Data Source
-Mock data prepared in Excel covering:
-- Resident demographics
-- Complaint logs and statuses
-- Vendor contracts
-- Maintenance billing and payment
+## 📂 Key Files
+
+| File/Link | Description |
+|-----------|-------------|
+| [`Residential_Township_Master_Data_50.xlsx`](https://github.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard/blob/2856aba66231348fcfe461a56f5ffd033bb046d1/Residential_Township_Master_Data_50.xlsx) | Mock dataset used for visualization |
+| [`Residential_Township_Master_Data_T.twb`](https://github.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard/blob/2856aba66231348fcfe461a56f5ffd033bb046d1/Residential_Township_Master_Data_T.twb) | Tableau workbook file |
+| `dashboard_preview.png` *(to be added)* | Screenshot of final dashboard |
+
+---
+
+## 📚 Related Documentation
+
+📁 This Tableau dashboard is based on a structured BA project repository that includes:
+
+- ✅ Business Requirement Document (BRD)
+- ✅ Functional Requirement Document (FRD)
+- ✅ Product Requirement Document (PRD)
+- ✅ User Personas & Journey
+- ✅ Process Diagrams & Use Case Models
+- ✅ Feature-wise Backlog & Wireframes
+
+👉 **Main Repository:** [Residential Township – BA Documentation](https://github.com/suraj-insights/Residential-Township-Management-BA-Documents)  
+*(Replace link with your actual BA repo URL if different)*
+
+---
+
+## 💡 Dashboard Features
+
+- ✅ KPI indicators (✔️ ✅ ❌ ⚠️)
+- 📊 Donut, Bar, and Line Charts
+- 🔄 Dynamic filters for time, flat, status
+- 🧾 Complaint resolution tracking
+- 🔐 Vendor contract tracking
+- 💰 Maintenance payment analysis
+
+---
 
 ## 🛠 Tools Used
-- Tableau Public (Visualization)
-- Excel (Data Preparation)
-- Git & GitHub (Version Control and Hosting)
 
-## 📂 Repository Structure
+- Tableau Public  
+- Microsoft Excel  
+- Git & GitHub
+
+---
+
