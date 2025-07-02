@@ -1,8 +1,8 @@
-# 🏢 Residential Township Management – Tableau Dashboard
+# 🏢 Residential Township Management System for Tableau Dashboard
 
 ## 📘 Project Overview
 
-This Tableau dashboard is a part of the **Residential Township Management System**, designed to empower stakeholders with actionable insights for managing operations—covering residents, complaints, vendors, and financial data.
+This Tableau dashboard is a part of the **Residential Township Management System**, designed to empower stakeholders with actionable insights for managing operations like covering residents, complaints, vendors and financial data.
 
 It acts as a **visual analytical layer** built on top of well-documented business requirements and planning assets, aligned with Business Analyst practices.
 
