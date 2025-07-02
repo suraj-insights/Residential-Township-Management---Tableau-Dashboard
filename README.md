@@ -20,7 +20,7 @@ It offers a visual layer on top of well-documented business requirements and pla
 |-----------|-------------|
 | [`Residential_Township_Master_Data_50.xlsx`](https://github.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard/blob/2856aba66231348fcfe461a56f5ffd033bb046d1/Residential_Township_Master_Data_50.xlsx) | Mock dataset used for visualization |
 | [`Residential_Township_Master_Data_T.twb`](https://github.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard/blob/2856aba66231348fcfe461a56f5ffd033bb046d1/Residential_Township_Master_Data_T.twb) | Tableau workbook file |
-| `dashboard_preview.png` *(to be added)* | Screenshot of final dashboard |
+| 
 
 ---
 
