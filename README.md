@@ -14,6 +14,15 @@ It acts as a **visual analytical layer** built on top of well-documented busines
 
 ---
 
+## 🔄 Data Flow Diagram (DFD)
+
+The following diagram represents the flow of data between different components of the Residential Township Management System.
+
+![Data Flow Diagram](https://raw.githubusercontent.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard/04905e74719efa97769c8785078836b69b6ac941/Data%20Flow%20Diagram.png)
+
+
+---
+
 ## 🖼️ Dashboard Snapshots
 
 | Home Overview | Service & Complaint Analytics |
